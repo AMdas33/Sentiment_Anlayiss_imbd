@@ -1,1 +1,3 @@
-# Sentiment_Anlayiss_imbd
+# 🎬 IMDB Sentiment Analysis
+
+This repo predicts **positive/negative sentiment** from IMDB reviews
